@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ShopSneaker", "ShopSneaker\", "{4827E3A4-9786-45D7-9AE2-1D42BC2BFD91}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50503"
+		Debug.AspNetCompiler.PhysicalPath = "ShopSneaker\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50503\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50503"
+		Release.AspNetCompiler.PhysicalPath = "ShopSneaker\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50503\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50503"
+		SlnRelativePath = "ShopSneaker\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4827E3A4-9786-45D7-9AE2-1D42BC2BFD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4827E3A4-9786-45D7-9AE2-1D42BC2BFD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4827E3A4-9786-45D7-9AE2-1D42BC2BFD91}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4827E3A4-9786-45D7-9AE2-1D42BC2BFD91}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8BBACD-282A-40D0-8AB5-40BE384315D7}
+	EndGlobalSection
+EndGlobal

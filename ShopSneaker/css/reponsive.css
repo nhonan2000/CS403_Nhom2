@@ -1,0 +1,41 @@
+﻿.menungang {
+    display: flex;
+}
+
+#toggle {
+    display: none;
+    background: #353b48;
+    color: #fff;
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .menungang {
+        text-align: center;
+    }
+
+    #toggle {
+        display: block;
+    }
+
+    nav {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .menungang {
+        text-align: center;
+    }
+
+    #toggle {
+        display: block;
+    }
+
+    nav {
+        display: none;
+    }
+}

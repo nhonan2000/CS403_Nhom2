@@ -1,0 +1,369 @@
+﻿.bodypage{
+    margin-top:15px;
+    display: flex;
+}
+
+.headermuc{
+    text-align:center;
+}
+
+.headermuc h7{
+    font-weight: bold;
+}
+
+.menumuc ul{
+    list-style: none;
+    padding: 0px;
+}
+
+    .menumuc ul li{
+        padding-left: 15px;
+    }
+    .menumuc ul li:hover{
+        background-color: #dddddd;
+    }
+
+    .menumuc ul li a {
+        text-decoration: none;
+        color: #000;
+    }
+    .menumuc ul li a:hover {
+        color: #fff;
+    }
+
+.menuleft {
+    float: left;
+    padding: 15px;
+    flex: 0 0 20%;
+}
+
+
+.pageright{
+    width: 100%;
+    padding: 15px;
+}
+
+
+.category {
+    border: 1px solid #cccccc;
+    border-radius: 0.2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.product .card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.product:hover {
+    padding: 0px;
+    transition:1s;
+}
+
+.title-line{
+    text-decoration: none;
+    padding-left: 15px;
+    
+}
+
+.title-line h3{
+    font-weight: bold;
+}
+
+/*#thantrang {
+    margin-top: 10px;
+    background-color: white;
+}
+
+    #thantrang .contener {
+    }*/
+/*#trangtrai {
+    float: left;
+    height: 100%;
+    margin-right: 5px;
+    overflow: hidden;
+    width: 280px;
+}
+
+#danhmuc {
+    overflow: hidden;
+    width: 100%
+}
+
+.daumuc {*/
+/*background: #f75d75;*/
+/*border-radius: 7px 7px 0px 0px;
+    height: 35px
+}
+
+    .daumuc > a {
+        font: bold 15px SFUEurostileCond;
+        line-height: 35px;
+        margin-left: 53px
+    }
+
+.ditmuc {
+    border: 1px solid #808080;
+    border-radius: 0px 0px 7px 7px
+}
+
+#danhmuc ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px
+}
+
+    #danhmuc ul li {
+        border-bottom: 1px solid #808080;
+        height: 35px
+    }*/
+/*#danhmuc ul li:hover {
+            background: #f8dde1
+        }*/
+/*#danhmuc ul li a {
+            font: bold 15px SFUEurostileCond;
+            line-height: 35px;
+            margin-left: 15px;
+            text-decoration: none
+        }*/
+/*#danhmuc ul li a:hover {
+                color: black
+            }*/
+/*#hotro {
+    background: #f9dde1;
+    border: 1px solid #808080;
+    border-radius: 7px;
+    margin-top: 15px;
+    overflow: hidden;
+    width: 99%
+}
+
+#pichotro {
+    overflow: hidden;
+    width: 100%
+}
+
+.logohotro {
+    background: #f75d75;
+    width: 100%
+}
+
+    .logohotro img {
+        margin: 5px 0px 0px 60px
+    }
+
+#pichotro > h3 {
+    border-bottom: 1px solid #ea819e;
+    color: #d6252b;
+    font: bold 18px SFUEurostileCond;
+    margin: 0px;
+    padding: 10px 0px 10px 0px;
+    text-align: center
+}
+
+.support {
+    margin: 0px 10px 0px 10px
+}
+
+.supp-name {
+    color: #f75d75;
+    font: bold 17px SFUEurostileCond;
+    margin-bottom: 5px
+}
+
+.support a {
+}
+
+#thanhtoan {
+    margin-top: 15px;
+    overflow: hidden;
+    width: 100%
+}
+
+.title-thanhtoan {
+    background: #f75d75;
+    border-radius: 7px 7px 0px 0px;
+    height: 35px;
+    width: 100%
+}
+
+    .title-thanhtoan > a {
+        color: white;
+        font: bold 15px SFUEurostileCond;
+        line-height: 35px;
+        margin-left: 53px
+    }
+
+.thongtinnganhang {
+    background: #f9dde1;
+    border: 1px solid #808080;
+    border-radius: 0px 0px 7px 7px;
+    overflow: hidden
+}
+
+.nganhang {
+    border-bottom: 1px solid #f75d75;
+    margin-top: 25px
+}
+
+    .nganhang img {
+        margin: 0px 0px 3px 15px
+    }
+
+    .nganhang p {
+        margin: 2px 0px 30px 15px
+    }
+
+#thongketruycap {
+    margin-top: 15px;
+    overflow: hidden;
+    width: 100%
+}
+
+.title-thongke {
+    background: #f75d75;
+    border-radius: 7px 7px 0px 0px;
+    height: 35px;
+    width: 100%
+}
+
+    .title-thongke > a {
+        color: white;
+        font: bold 15px SFUEurostileCond;
+        line-height: 35px;
+        margin-left: 53px
+    }
+
+.so-thongke {
+    background: #f9dde1;
+    border: 1px solid #808080;
+    border-radius: 0px 0px 7px 7px;
+    overflow: hidden
+}
+
+    .so-thongke p {
+        margin: 0px;
+        margin: 10px 0px 10px 15px
+    }
+
+
+.sanphamnoibat {
+    overflow: hidden;
+}*/
+/*.title-line {
+    display: block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    .title-line h3 {*/
+/*background-color: white;*/
+/*display: inline-block;
+        padding: 0px 15px;*/
+/*position: relative;*/
+/*white-space: nowrap;
+        z-index: 1
+    }
+
+    .title-line::before {
+        content: "";
+        display: table;
+        padding-top: 1px;
+        position: absolute;
+        top: 29px;
+        width: 100%;
+    }
+
+    .title-line .xemchitiet {
+        bottom: 6px;
+        right: 0;
+        z-index: 1;
+        color: black;*/
+/*position: absolute;*/
+/*}
+
+        .title-line .xemchitiet:hover {
+            color: red;
+        }
+
+.sp_noibat {
+    background: white;
+    overflow: hidden;
+    padding-top: 8px
+}
+
+.item {
+    border: 1px solid #000000;
+    float: left;
+    margin-bottom: 10px;*/
+/*margin-right: 5px;*/
+/*text-align: center;
+    width: 265px;
+}
+
+    .item:nth-of-type(3n + 0) {
+        margin-right: 0px
+    }
+
+    .item img {
+        height: 225px;
+        width: 230px
+    }
+
+.title-sp {
+    color: #000000;
+    display: block;
+    font: bold 18px SFUEurostileCond;
+    height: 38px;
+    overflow: hidden;
+    padding: 8px 0px 8px 0px;
+    text-decoration: none
+}
+
+    .title-sp:hover {
+        color: gold;
+    }
+
+.desc {
+    color: #000000;
+    font: normal 15px SFUEurostileCond;
+    padding-bottom: 5px;
+    margin-top: -20px;
+    font-size: 18px;
+}*/
+/*#sanphammoive {
+    overflow: hidden
+}
+
+#sanphambanchay {
+    overflow: hidden
+}*/
+@media (max-width: 1092px) {
+    .menuleft {
+        flex: 0 0 20%;
+    }
+    /*.category {
+        width: 20% !important;
+    }*/
+}
+
+@media (max-width: 868px) {
+    .menuleft {
+        flex: 0 0 50%;
+    }
+    /*.category {
+        width: 50% !important;
+    }*/
+}
+
+@media (max-width: 676px) {
+    .menuleft {
+        flex: 0 0 100%;
+    }
+    .bodypage{
+        flex-wrap: wrap;
+    }
+    
+    /*.category {
+        width: 100% !important;
+    }*/
+}
